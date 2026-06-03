@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hugewin-5-lions-megaways-2-el-244.onrender.com/sitemap.xml
